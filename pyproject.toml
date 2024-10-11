@@ -30,6 +30,7 @@ lint.ignore = [
     "D105",  # Missing docstring in magic method
     "D106",  # Missing docstring in public nested class
     "D107",  # Missing docstring in __init__
+    "N806",  # Variable in function should be lowercase
 ]
 exclude = ["tests"]
 line-length = 88  # Same as Black.
