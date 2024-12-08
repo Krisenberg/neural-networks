@@ -9,11 +9,16 @@ dependencies = [
     "notebook>=7.2.2",
     "scikit-learn>=1.5.2",
     "scipy>=1.13.1",
+    "tensorflow",
     "torch>=2.5.1",
     "torchvision>=0.20.1",
     "ucimlrepo>=0.0.7",
     "ydata-profiling>=4.10.0",
 ]
+
+
+[tool.uv.sources]
+tensorflow = { url = "https://storage.googleapis.com/tensorflow/versions/2.18.0/tensorflow-2.18.0-cp312-cp312-win_amd64.whl" }
 
 
 [tool.ruff]

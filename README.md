@@ -1,9 +1,9 @@
 # Neural networks
 
 > [!WARNING]  
-> `torchtext` lirbary (0.18.0) used in the lab_7 was not compatible with the latest `torch` library (2.5.1).  
-> `torch == 2.3.0` is used to fix this compatibility issue. In case something is broken in the previous labs
-> (lab_4, lab_5 and lab_6) please try to use newer library version.
+> `tensorflow` library used for the lab_7 is dedicated for Python 3.12 on Windows.  
+> Please verify the source of this library for your machine before installing a virtual environment.  
+> See: https://www.tensorflow.org/install/pip#linux_1
 
 ### Getting started
 1. Install `uv` package manager: https://docs.astral.sh/uv/getting-started/installation/.
