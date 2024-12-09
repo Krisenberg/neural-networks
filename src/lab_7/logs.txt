@@ -1,0 +1,1556 @@
+Running experiment 1/3
+Downloading data from https://storage.googleapis.com/tensorflow/tf-keras-datasets/imdb.npz
+17464789/17464789 ━━━━━━━━━━━━━━━━━━━━ 0s 0us/step
+0s [1/12] Epoch with cuda device
+17s [2/12] Epoch with cuda device
+33s [3/12] Epoch with cuda device
+50s [4/12] Epoch with cuda device
+67s [5/12] Epoch with cuda device
+84s [6/12] Epoch with cuda device
+100s [7/12] Epoch with cuda device
+117s [8/12] Epoch with cuda device
+134s [9/12] Epoch with cuda device
+151s [10/12] Epoch with cuda device
+168s [11/12] Epoch with cuda device
+185s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 2/3
+0s [1/12] Epoch with cuda device
+16s [2/12] Epoch with cuda device
+33s [3/12] Epoch with cuda device
+50s [4/12] Epoch with cuda device
+66s [5/12] Epoch with cuda device
+83s [6/12] Epoch with cuda device
+100s [7/12] Epoch with cuda device
+117s [8/12] Epoch with cuda device
+134s [9/12] Epoch with cuda device
+151s [10/12] Epoch with cuda device
+167s [11/12] Epoch with cuda device
+184s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 3/3
+0s [1/12] Epoch with cuda device
+16s [2/12] Epoch with cuda device
+33s [3/12] Epoch with cuda device
+50s [4/12] Epoch with cuda device
+67s [5/12] Epoch with cuda device
+84s [6/12] Epoch with cuda device
+101s [7/12] Epoch with cuda device
+118s [8/12] Epoch with cuda device
+135s [9/12] Epoch with cuda device
+152s [10/12] Epoch with cuda device
+169s [11/12] Epoch with cuda device
+186s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 1/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+4s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+7s [6/12] Epoch with cuda device
+9s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+13s [9/12] Epoch with cuda device
+15s [10/12] Epoch with cuda device
+16s [11/12] Epoch with cuda device
+18s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 2/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+5s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+9s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+12s [9/12] Epoch with cuda device
+14s [10/12] Epoch with cuda device
+16s [11/12] Epoch with cuda device
+17s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 3/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+4s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+10s [7/12] Epoch with cuda device
+12s [8/12] Epoch with cuda device
+13s [9/12] Epoch with cuda device
+15s [10/12] Epoch with cuda device
+16s [11/12] Epoch with cuda device
+18s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 4/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+2s [3/12] Epoch with cuda device
+4s [4/12] Epoch with cuda device
+5s [5/12] Epoch with cuda device
+7s [6/12] Epoch with cuda device
+8s [7/12] Epoch with cuda device
+10s [8/12] Epoch with cuda device
+12s [9/12] Epoch with cuda device
+14s [10/12] Epoch with cuda device
+15s [11/12] Epoch with cuda device
+17s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 5/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+5s [4/12] Epoch with cuda device
+7s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+10s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+13s [9/12] Epoch with cuda device
+14s [10/12] Epoch with cuda device
+16s [11/12] Epoch with cuda device
+18s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 6/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+2s [3/12] Epoch with cuda device
+4s [4/12] Epoch with cuda device
+5s [5/12] Epoch with cuda device
+7s [6/12] Epoch with cuda device
+9s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+12s [9/12] Epoch with cuda device
+14s [10/12] Epoch with cuda device
+15s [11/12] Epoch with cuda device
+17s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 7/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+5s [4/12] Epoch with cuda device
+7s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+10s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+13s [9/12] Epoch with cuda device
+15s [10/12] Epoch with cuda device
+17s [11/12] Epoch with cuda device
+18s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 8/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+2s [3/12] Epoch with cuda device
+4s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+9s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+12s [9/12] Epoch with cuda device
+14s [10/12] Epoch with cuda device
+15s [11/12] Epoch with cuda device
+17s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 9/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+4s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+9s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+13s [9/12] Epoch with cuda device
+15s [10/12] Epoch with cuda device
+16s [11/12] Epoch with cuda device
+18s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 10/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+5s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+9s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+12s [9/12] Epoch with cuda device
+14s [10/12] Epoch with cuda device
+15s [11/12] Epoch with cuda device
+17s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 11/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+4s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+7s [6/12] Epoch with cuda device
+9s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+13s [9/12] Epoch with cuda device
+14s [10/12] Epoch with cuda device
+16s [11/12] Epoch with cuda device
+18s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 12/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+5s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+9s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+12s [9/12] Epoch with cuda device
+14s [10/12] Epoch with cuda device
+16s [11/12] Epoch with cuda device
+17s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 13/108
+0s [1/12] Epoch with cuda device
+6s [2/12] Epoch with cuda device
+12s [3/12] Epoch with cuda device
+19s [4/12] Epoch with cuda device
+25s [5/12] Epoch with cuda device
+31s [6/12] Epoch with cuda device
+37s [7/12] Epoch with cuda device
+44s [8/12] Epoch with cuda device
+50s [9/12] Epoch with cuda device
+56s [10/12] Epoch with cuda device
+62s [11/12] Epoch with cuda device
+69s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 14/108
+0s [1/12] Epoch with cuda device
+4s [2/12] Epoch with cuda device
+8s [3/12] Epoch with cuda device
+12s [4/12] Epoch with cuda device
+16s [5/12] Epoch with cuda device
+21s [6/12] Epoch with cuda device
+25s [7/12] Epoch with cuda device
+29s [8/12] Epoch with cuda device
+34s [9/12] Epoch with cuda device
+38s [10/12] Epoch with cuda device
+42s [11/12] Epoch with cuda device
+47s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 15/108
+0s [1/12] Epoch with cuda device
+6s [2/12] Epoch with cuda device
+13s [3/12] Epoch with cuda device
+20s [4/12] Epoch with cuda device
+27s [5/12] Epoch with cuda device
+33s [6/12] Epoch with cuda device
+40s [7/12] Epoch with cuda device
+47s [8/12] Epoch with cuda device
+53s [9/12] Epoch with cuda device
+60s [10/12] Epoch with cuda device
+67s [11/12] Epoch with cuda device
+73s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 16/108
+0s [1/12] Epoch with cuda device
+4s [2/12] Epoch with cuda device
+8s [3/12] Epoch with cuda device
+13s [4/12] Epoch with cuda device
+18s [5/12] Epoch with cuda device
+22s [6/12] Epoch with cuda device
+27s [7/12] Epoch with cuda device
+31s [8/12] Epoch with cuda device
+36s [9/12] Epoch with cuda device
+40s [10/12] Epoch with cuda device
+45s [11/12] Epoch with cuda device
+49s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 17/108
+0s [1/12] Epoch with cuda device
+7s [2/12] Epoch with cuda device
+14s [3/12] Epoch with cuda device
+22s [4/12] Epoch with cuda device
+29s [5/12] Epoch with cuda device
+37s [6/12] Epoch with cuda device
+44s [7/12] Epoch with cuda device
+52s [8/12] Epoch with cuda device
+59s [9/12] Epoch with cuda device
+67s [10/12] Epoch with cuda device
+74s [11/12] Epoch with cuda device
+82s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 18/108
+0s [1/12] Epoch with cuda device
+4s [2/12] Epoch with cuda device
+10s [3/12] Epoch with cuda device
+14s [4/12] Epoch with cuda device
+19s [5/12] Epoch with cuda device
+24s [6/12] Epoch with cuda device
+29s [7/12] Epoch with cuda device
+35s [8/12] Epoch with cuda device
+39s [9/12] Epoch with cuda device
+44s [10/12] Epoch with cuda device
+49s [11/12] Epoch with cuda device
+54s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 19/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+4s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+7s [6/12] Epoch with cuda device
+9s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+13s [9/12] Epoch with cuda device
+14s [10/12] Epoch with cuda device
+16s [11/12] Epoch with cuda device
+17s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 20/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+5s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+9s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+12s [9/12] Epoch with cuda device
+14s [10/12] Epoch with cuda device
+15s [11/12] Epoch with cuda device
+17s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 21/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+4s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+7s [6/12] Epoch with cuda device
+10s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+13s [9/12] Epoch with cuda device
+14s [10/12] Epoch with cuda device
+16s [11/12] Epoch with cuda device
+18s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 22/108
+0s [1/12] Epoch with cuda device
+2s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+5s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+9s [7/12] Epoch with cuda device
+10s [8/12] Epoch with cuda device
+12s [9/12] Epoch with cuda device
+14s [10/12] Epoch with cuda device
+16s [11/12] Epoch with cuda device
+17s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 23/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+4s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+10s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+13s [9/12] Epoch with cuda device
+14s [10/12] Epoch with cuda device
+16s [11/12] Epoch with cuda device
+17s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 24/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+4s [4/12] Epoch with cuda device
+5s [5/12] Epoch with cuda device
+7s [6/12] Epoch with cuda device
+8s [7/12] Epoch with cuda device
+10s [8/12] Epoch with cuda device
+12s [9/12] Epoch with cuda device
+14s [10/12] Epoch with cuda device
+15s [11/12] Epoch with cuda device
+16s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 25/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+5s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+10s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+13s [9/12] Epoch with cuda device
+14s [10/12] Epoch with cuda device
+16s [11/12] Epoch with cuda device
+18s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 26/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+2s [3/12] Epoch with cuda device
+4s [4/12] Epoch with cuda device
+5s [5/12] Epoch with cuda device
+7s [6/12] Epoch with cuda device
+9s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+12s [9/12] Epoch with cuda device
+13s [10/12] Epoch with cuda device
+15s [11/12] Epoch with cuda device
+16s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 27/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+5s [4/12] Epoch with cuda device
+7s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+10s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+13s [9/12] Epoch with cuda device
+15s [10/12] Epoch with cuda device
+17s [11/12] Epoch with cuda device
+18s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 28/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+2s [3/12] Epoch with cuda device
+4s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+9s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+12s [9/12] Epoch with cuda device
+13s [10/12] Epoch with cuda device
+15s [11/12] Epoch with cuda device
+16s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 29/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+4s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+7s [6/12] Epoch with cuda device
+9s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+13s [9/12] Epoch with cuda device
+14s [10/12] Epoch with cuda device
+16s [11/12] Epoch with cuda device
+17s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 30/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+5s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+7s [6/12] Epoch with cuda device
+9s [7/12] Epoch with cuda device
+10s [8/12] Epoch with cuda device
+12s [9/12] Epoch with cuda device
+13s [10/12] Epoch with cuda device
+15s [11/12] Epoch with cuda device
+17s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 31/108
+0s [1/12] Epoch with cuda device
+8s [2/12] Epoch with cuda device
+16s [3/12] Epoch with cuda device
+24s [4/12] Epoch with cuda device
+32s [5/12] Epoch with cuda device
+40s [6/12] Epoch with cuda device
+48s [7/12] Epoch with cuda device
+56s [8/12] Epoch with cuda device
+64s [9/12] Epoch with cuda device
+72s [10/12] Epoch with cuda device
+80s [11/12] Epoch with cuda device
+88s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 32/108
+0s [1/12] Epoch with cuda device
+5s [2/12] Epoch with cuda device
+10s [3/12] Epoch with cuda device
+15s [4/12] Epoch with cuda device
+20s [5/12] Epoch with cuda device
+25s [6/12] Epoch with cuda device
+30s [7/12] Epoch with cuda device
+35s [8/12] Epoch with cuda device
+40s [9/12] Epoch with cuda device
+45s [10/12] Epoch with cuda device
+50s [11/12] Epoch with cuda device
+55s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 33/108
+0s [1/12] Epoch with cuda device
+8s [2/12] Epoch with cuda device
+17s [3/12] Epoch with cuda device
+25s [4/12] Epoch with cuda device
+33s [5/12] Epoch with cuda device
+42s [6/12] Epoch with cuda device
+50s [7/12] Epoch with cuda device
+59s [8/12] Epoch with cuda device
+68s [9/12] Epoch with cuda device
+76s [10/12] Epoch with cuda device
+84s [11/12] Epoch with cuda device
+93s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 34/108
+0s [1/12] Epoch with cuda device
+5s [2/12] Epoch with cuda device
+10s [3/12] Epoch with cuda device
+16s [4/12] Epoch with cuda device
+21s [5/12] Epoch with cuda device
+27s [6/12] Epoch with cuda device
+32s [7/12] Epoch with cuda device
+37s [8/12] Epoch with cuda device
+43s [9/12] Epoch with cuda device
+48s [10/12] Epoch with cuda device
+53s [11/12] Epoch with cuda device
+59s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 35/108
+0s [1/12] Epoch with cuda device
+9s [2/12] Epoch with cuda device
+18s [3/12] Epoch with cuda device
+27s [4/12] Epoch with cuda device
+37s [5/12] Epoch with cuda device
+46s [6/12] Epoch with cuda device
+56s [7/12] Epoch with cuda device
+65s [8/12] Epoch with cuda device
+74s [9/12] Epoch with cuda device
+84s [10/12] Epoch with cuda device
+93s [11/12] Epoch with cuda device
+103s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 36/108
+0s [1/12] Epoch with cuda device
+5s [2/12] Epoch with cuda device
+12s [3/12] Epoch with cuda device
+17s [4/12] Epoch with cuda device
+23s [5/12] Epoch with cuda device
+29s [6/12] Epoch with cuda device
+35s [7/12] Epoch with cuda device
+41s [8/12] Epoch with cuda device
+47s [9/12] Epoch with cuda device
+53s [10/12] Epoch with cuda device
+59s [11/12] Epoch with cuda device
+65s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 37/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+5s [4/12] Epoch with cuda device
+7s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+10s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+13s [9/12] Epoch with cuda device
+15s [10/12] Epoch with cuda device
+16s [11/12] Epoch with cuda device
+18s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 38/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+2s [3/12] Epoch with cuda device
+4s [4/12] Epoch with cuda device
+5s [5/12] Epoch with cuda device
+7s [6/12] Epoch with cuda device
+9s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+12s [9/12] Epoch with cuda device
+14s [10/12] Epoch with cuda device
+15s [11/12] Epoch with cuda device
+16s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 39/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+5s [4/12] Epoch with cuda device
+7s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+10s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+13s [9/12] Epoch with cuda device
+15s [10/12] Epoch with cuda device
+17s [11/12] Epoch with cuda device
+19s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 40/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+2s [3/12] Epoch with cuda device
+4s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+9s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+12s [9/12] Epoch with cuda device
+14s [10/12] Epoch with cuda device
+15s [11/12] Epoch with cuda device
+17s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 41/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+4s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+7s [6/12] Epoch with cuda device
+9s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+13s [9/12] Epoch with cuda device
+15s [10/12] Epoch with cuda device
+16s [11/12] Epoch with cuda device
+18s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 42/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+5s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+9s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+12s [9/12] Epoch with cuda device
+14s [10/12] Epoch with cuda device
+15s [11/12] Epoch with cuda device
+17s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 43/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+4s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+10s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+13s [9/12] Epoch with cuda device
+15s [10/12] Epoch with cuda device
+16s [11/12] Epoch with cuda device
+18s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 44/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+4s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+7s [6/12] Epoch with cuda device
+9s [7/12] Epoch with cuda device
+10s [8/12] Epoch with cuda device
+12s [9/12] Epoch with cuda device
+14s [10/12] Epoch with cuda device
+16s [11/12] Epoch with cuda device
+17s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 45/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+5s [4/12] Epoch with cuda device
+7s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+10s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+13s [9/12] Epoch with cuda device
+15s [10/12] Epoch with cuda device
+16s [11/12] Epoch with cuda device
+18s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 46/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+2s [3/12] Epoch with cuda device
+4s [4/12] Epoch with cuda device
+5s [5/12] Epoch with cuda device
+7s [6/12] Epoch with cuda device
+9s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+12s [9/12] Epoch with cuda device
+14s [10/12] Epoch with cuda device
+15s [11/12] Epoch with cuda device
+17s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 47/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+5s [4/12] Epoch with cuda device
+7s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+10s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+13s [9/12] Epoch with cuda device
+15s [10/12] Epoch with cuda device
+17s [11/12] Epoch with cuda device
+19s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 48/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+2s [3/12] Epoch with cuda device
+4s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+9s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+12s [9/12] Epoch with cuda device
+13s [10/12] Epoch with cuda device
+15s [11/12] Epoch with cuda device
+16s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 49/108
+0s [1/12] Epoch with cuda device
+13s [2/12] Epoch with cuda device
+27s [3/12] Epoch with cuda device
+40s [4/12] Epoch with cuda device
+54s [5/12] Epoch with cuda device
+67s [6/12] Epoch with cuda device
+80s [7/12] Epoch with cuda device
+94s [8/12] Epoch with cuda device
+107s [9/12] Epoch with cuda device
+120s [10/12] Epoch with cuda device
+134s [11/12] Epoch with cuda device
+147s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 50/108
+0s [1/12] Epoch with cuda device
+7s [2/12] Epoch with cuda device
+15s [3/12] Epoch with cuda device
+22s [4/12] Epoch with cuda device
+30s [5/12] Epoch with cuda device
+37s [6/12] Epoch with cuda device
+45s [7/12] Epoch with cuda device
+52s [8/12] Epoch with cuda device
+60s [9/12] Epoch with cuda device
+68s [10/12] Epoch with cuda device
+75s [11/12] Epoch with cuda device
+83s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 51/108
+0s [1/12] Epoch with cuda device
+13s [2/12] Epoch with cuda device
+27s [3/12] Epoch with cuda device
+41s [4/12] Epoch with cuda device
+55s [5/12] Epoch with cuda device
+69s [6/12] Epoch with cuda device
+83s [7/12] Epoch with cuda device
+97s [8/12] Epoch with cuda device
+110s [9/12] Epoch with cuda device
+124s [10/12] Epoch with cuda device
+138s [11/12] Epoch with cuda device
+152s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 52/108
+0s [1/12] Epoch with cuda device
+7s [2/12] Epoch with cuda device
+15s [3/12] Epoch with cuda device
+23s [4/12] Epoch with cuda device
+31s [5/12] Epoch with cuda device
+39s [6/12] Epoch with cuda device
+47s [7/12] Epoch with cuda device
+54s [8/12] Epoch with cuda device
+62s [9/12] Epoch with cuda device
+70s [10/12] Epoch with cuda device
+78s [11/12] Epoch with cuda device
+86s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 53/108
+0s [1/12] Epoch with cuda device
+14s [2/12] Epoch with cuda device
+29s [3/12] Epoch with cuda device
+45s [4/12] Epoch with cuda device
+60s [5/12] Epoch with cuda device
+75s [6/12] Epoch with cuda device
+90s [7/12] Epoch with cuda device
+105s [8/12] Epoch with cuda device
+120s [9/12] Epoch with cuda device
+135s [10/12] Epoch with cuda device
+151s [11/12] Epoch with cuda device
+166s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 54/108
+0s [1/12] Epoch with cuda device
+8s [2/12] Epoch with cuda device
+17s [3/12] Epoch with cuda device
+25s [4/12] Epoch with cuda device
+34s [5/12] Epoch with cuda device
+43s [6/12] Epoch with cuda device
+51s [7/12] Epoch with cuda device
+60s [8/12] Epoch with cuda device
+69s [9/12] Epoch with cuda device
+77s [10/12] Epoch with cuda device
+86s [11/12] Epoch with cuda device
+94s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 55/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+4s [3/12] Epoch with cuda device
+5s [4/12] Epoch with cuda device
+7s [5/12] Epoch with cuda device
+9s [6/12] Epoch with cuda device
+10s [7/12] Epoch with cuda device
+12s [8/12] Epoch with cuda device
+14s [9/12] Epoch with cuda device
+16s [10/12] Epoch with cuda device
+18s [11/12] Epoch with cuda device
+20s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 56/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+4s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+10s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+13s [9/12] Epoch with cuda device
+14s [10/12] Epoch with cuda device
+16s [11/12] Epoch with cuda device
+18s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 57/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+5s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+10s [7/12] Epoch with cuda device
+12s [8/12] Epoch with cuda device
+14s [9/12] Epoch with cuda device
+16s [10/12] Epoch with cuda device
+17s [11/12] Epoch with cuda device
+19s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 58/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+4s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+7s [6/12] Epoch with cuda device
+9s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+13s [9/12] Epoch with cuda device
+14s [10/12] Epoch with cuda device
+16s [11/12] Epoch with cuda device
+17s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 59/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+5s [4/12] Epoch with cuda device
+7s [5/12] Epoch with cuda device
+9s [6/12] Epoch with cuda device
+11s [7/12] Epoch with cuda device
+12s [8/12] Epoch with cuda device
+14s [9/12] Epoch with cuda device
+16s [10/12] Epoch with cuda device
+18s [11/12] Epoch with cuda device
+20s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 60/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+4s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+10s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+13s [9/12] Epoch with cuda device
+14s [10/12] Epoch with cuda device
+16s [11/12] Epoch with cuda device
+18s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 61/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+5s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+10s [7/12] Epoch with cuda device
+12s [8/12] Epoch with cuda device
+14s [9/12] Epoch with cuda device
+16s [10/12] Epoch with cuda device
+18s [11/12] Epoch with cuda device
+19s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 62/108
+0s [1/12] Epoch with cuda device
+2s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+5s [4/12] Epoch with cuda device
+7s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+10s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+13s [9/12] Epoch with cuda device
+15s [10/12] Epoch with cuda device
+17s [11/12] Epoch with cuda device
+18s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 63/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+5s [4/12] Epoch with cuda device
+7s [5/12] Epoch with cuda device
+9s [6/12] Epoch with cuda device
+11s [7/12] Epoch with cuda device
+12s [8/12] Epoch with cuda device
+14s [9/12] Epoch with cuda device
+16s [10/12] Epoch with cuda device
+18s [11/12] Epoch with cuda device
+20s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 64/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+4s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+7s [6/12] Epoch with cuda device
+10s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+13s [9/12] Epoch with cuda device
+14s [10/12] Epoch with cuda device
+16s [11/12] Epoch with cuda device
+17s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 65/108
+0s [1/12] Epoch with cuda device
+2s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+5s [4/12] Epoch with cuda device
+7s [5/12] Epoch with cuda device
+9s [6/12] Epoch with cuda device
+10s [7/12] Epoch with cuda device
+12s [8/12] Epoch with cuda device
+15s [9/12] Epoch with cuda device
+16s [10/12] Epoch with cuda device
+18s [11/12] Epoch with cuda device
+20s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 66/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+5s [4/12] Epoch with cuda device
+7s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+10s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+13s [9/12] Epoch with cuda device
+15s [10/12] Epoch with cuda device
+17s [11/12] Epoch with cuda device
+18s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 67/108
+0s [1/12] Epoch with cuda device
+10s [2/12] Epoch with cuda device
+20s [3/12] Epoch with cuda device
+30s [4/12] Epoch with cuda device
+40s [5/12] Epoch with cuda device
+49s [6/12] Epoch with cuda device
+60s [7/12] Epoch with cuda device
+69s [8/12] Epoch with cuda device
+79s [9/12] Epoch with cuda device
+89s [10/12] Epoch with cuda device
+99s [11/12] Epoch with cuda device
+109s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 68/108
+0s [1/12] Epoch with cuda device
+6s [2/12] Epoch with cuda device
+12s [3/12] Epoch with cuda device
+18s [4/12] Epoch with cuda device
+24s [5/12] Epoch with cuda device
+31s [6/12] Epoch with cuda device
+37s [7/12] Epoch with cuda device
+43s [8/12] Epoch with cuda device
+49s [9/12] Epoch with cuda device
+56s [10/12] Epoch with cuda device
+62s [11/12] Epoch with cuda device
+68s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 69/108
+0s [1/12] Epoch with cuda device
+10s [2/12] Epoch with cuda device
+20s [3/12] Epoch with cuda device
+31s [4/12] Epoch with cuda device
+42s [5/12] Epoch with cuda device
+52s [6/12] Epoch with cuda device
+62s [7/12] Epoch with cuda device
+73s [8/12] Epoch with cuda device
+83s [9/12] Epoch with cuda device
+94s [10/12] Epoch with cuda device
+104s [11/12] Epoch with cuda device
+115s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 70/108
+0s [1/12] Epoch with cuda device
+7s [2/12] Epoch with cuda device
+13s [3/12] Epoch with cuda device
+20s [4/12] Epoch with cuda device
+27s [5/12] Epoch with cuda device
+33s [6/12] Epoch with cuda device
+40s [7/12] Epoch with cuda device
+47s [8/12] Epoch with cuda device
+54s [9/12] Epoch with cuda device
+60s [10/12] Epoch with cuda device
+67s [11/12] Epoch with cuda device
+73s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 71/108
+0s [1/12] Epoch with cuda device
+11s [2/12] Epoch with cuda device
+23s [3/12] Epoch with cuda device
+34s [4/12] Epoch with cuda device
+46s [5/12] Epoch with cuda device
+57s [6/12] Epoch with cuda device
+69s [7/12] Epoch with cuda device
+80s [8/12] Epoch with cuda device
+92s [9/12] Epoch with cuda device
+103s [10/12] Epoch with cuda device
+115s [11/12] Epoch with cuda device
+126s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 72/108
+0s [1/12] Epoch with cuda device
+7s [2/12] Epoch with cuda device
+14s [3/12] Epoch with cuda device
+21s [4/12] Epoch with cuda device
+29s [5/12] Epoch with cuda device
+36s [6/12] Epoch with cuda device
+43s [7/12] Epoch with cuda device
+50s [8/12] Epoch with cuda device
+58s [9/12] Epoch with cuda device
+65s [10/12] Epoch with cuda device
+73s [11/12] Epoch with cuda device
+80s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 73/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+5s [4/12] Epoch with cuda device
+7s [5/12] Epoch with cuda device
+9s [6/12] Epoch with cuda device
+11s [7/12] Epoch with cuda device
+12s [8/12] Epoch with cuda device
+14s [9/12] Epoch with cuda device
+16s [10/12] Epoch with cuda device
+18s [11/12] Epoch with cuda device
+20s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 74/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+4s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+7s [6/12] Epoch with cuda device
+9s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+13s [9/12] Epoch with cuda device
+14s [10/12] Epoch with cuda device
+16s [11/12] Epoch with cuda device
+17s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 75/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+4s [3/12] Epoch with cuda device
+6s [4/12] Epoch with cuda device
+7s [5/12] Epoch with cuda device
+9s [6/12] Epoch with cuda device
+11s [7/12] Epoch with cuda device
+12s [8/12] Epoch with cuda device
+15s [9/12] Epoch with cuda device
+17s [10/12] Epoch with cuda device
+18s [11/12] Epoch with cuda device
+20s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 76/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+5s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+9s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+13s [9/12] Epoch with cuda device
+14s [10/12] Epoch with cuda device
+16s [11/12] Epoch with cuda device
+18s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 77/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+5s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+9s [6/12] Epoch with cuda device
+11s [7/12] Epoch with cuda device
+12s [8/12] Epoch with cuda device
+14s [9/12] Epoch with cuda device
+16s [10/12] Epoch with cuda device
+18s [11/12] Epoch with cuda device
+19s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 78/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+4s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+7s [6/12] Epoch with cuda device
+9s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+12s [9/12] Epoch with cuda device
+14s [10/12] Epoch with cuda device
+15s [11/12] Epoch with cuda device
+17s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 79/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+6s [4/12] Epoch with cuda device
+7s [5/12] Epoch with cuda device
+9s [6/12] Epoch with cuda device
+11s [7/12] Epoch with cuda device
+12s [8/12] Epoch with cuda device
+14s [9/12] Epoch with cuda device
+17s [10/12] Epoch with cuda device
+18s [11/12] Epoch with cuda device
+20s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 80/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+4s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+9s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+13s [9/12] Epoch with cuda device
+14s [10/12] Epoch with cuda device
+16s [11/12] Epoch with cuda device
+18s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 81/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+5s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+11s [7/12] Epoch with cuda device
+12s [8/12] Epoch with cuda device
+14s [9/12] Epoch with cuda device
+16s [10/12] Epoch with cuda device
+18s [11/12] Epoch with cuda device
+19s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 82/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+4s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+9s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+13s [9/12] Epoch with cuda device
+14s [10/12] Epoch with cuda device
+16s [11/12] Epoch with cuda device
+18s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 83/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+5s [4/12] Epoch with cuda device
+7s [5/12] Epoch with cuda device
+9s [6/12] Epoch with cuda device
+11s [7/12] Epoch with cuda device
+12s [8/12] Epoch with cuda device
+14s [9/12] Epoch with cuda device
+16s [10/12] Epoch with cuda device
+18s [11/12] Epoch with cuda device
+20s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 84/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+4s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+9s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+13s [9/12] Epoch with cuda device
+14s [10/12] Epoch with cuda device
+16s [11/12] Epoch with cuda device
+17s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 85/108
+0s [1/12] Epoch with cuda device
+16s [2/12] Epoch with cuda device
+32s [3/12] Epoch with cuda device
+47s [4/12] Epoch with cuda device
+63s [5/12] Epoch with cuda device
+79s [6/12] Epoch with cuda device
+95s [7/12] Epoch with cuda device
+111s [8/12] Epoch with cuda device
+127s [9/12] Epoch with cuda device
+143s [10/12] Epoch with cuda device
+158s [11/12] Epoch with cuda device
+174s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 86/108
+0s [1/12] Epoch with cuda device
+9s [2/12] Epoch with cuda device
+18s [3/12] Epoch with cuda device
+27s [4/12] Epoch with cuda device
+36s [5/12] Epoch with cuda device
+45s [6/12] Epoch with cuda device
+55s [7/12] Epoch with cuda device
+64s [8/12] Epoch with cuda device
+73s [9/12] Epoch with cuda device
+82s [10/12] Epoch with cuda device
+91s [11/12] Epoch with cuda device
+101s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 87/108
+0s [1/12] Epoch with cuda device
+16s [2/12] Epoch with cuda device
+33s [3/12] Epoch with cuda device
+49s [4/12] Epoch with cuda device
+66s [5/12] Epoch with cuda device
+82s [6/12] Epoch with cuda device
+99s [7/12] Epoch with cuda device
+116s [8/12] Epoch with cuda device
+132s [9/12] Epoch with cuda device
+149s [10/12] Epoch with cuda device
+166s [11/12] Epoch with cuda device
+183s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 88/108
+0s [1/12] Epoch with cuda device
+10s [2/12] Epoch with cuda device
+19s [3/12] Epoch with cuda device
+29s [4/12] Epoch with cuda device
+38s [5/12] Epoch with cuda device
+48s [6/12] Epoch with cuda device
+58s [7/12] Epoch with cuda device
+67s [8/12] Epoch with cuda device
+77s [9/12] Epoch with cuda device
+86s [10/12] Epoch with cuda device
+96s [11/12] Epoch with cuda device
+105s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 89/108
+0s [1/12] Epoch with cuda device
+18s [2/12] Epoch with cuda device
+36s [3/12] Epoch with cuda device
+55s [4/12] Epoch with cuda device
+73s [5/12] Epoch with cuda device
+92s [6/12] Epoch with cuda device
+111s [7/12] Epoch with cuda device
+129s [8/12] Epoch with cuda device
+148s [9/12] Epoch with cuda device
+166s [10/12] Epoch with cuda device
+185s [11/12] Epoch with cuda device
+204s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 90/108
+0s [1/12] Epoch with cuda device
+10s [2/12] Epoch with cuda device
+20s [3/12] Epoch with cuda device
+31s [4/12] Epoch with cuda device
+41s [5/12] Epoch with cuda device
+52s [6/12] Epoch with cuda device
+63s [7/12] Epoch with cuda device
+73s [8/12] Epoch with cuda device
+84s [9/12] Epoch with cuda device
+94s [10/12] Epoch with cuda device
+105s [11/12] Epoch with cuda device
+115s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 91/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+5s [4/12] Epoch with cuda device
+7s [5/12] Epoch with cuda device
+9s [6/12] Epoch with cuda device
+11s [7/12] Epoch with cuda device
+13s [8/12] Epoch with cuda device
+15s [9/12] Epoch with cuda device
+17s [10/12] Epoch with cuda device
+18s [11/12] Epoch with cuda device
+20s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 92/108
+0s [1/12] Epoch with cuda device
+2s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+5s [4/12] Epoch with cuda device
+7s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+10s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+13s [9/12] Epoch with cuda device
+15s [10/12] Epoch with cuda device
+17s [11/12] Epoch with cuda device
+19s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 93/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+6s [4/12] Epoch with cuda device
+7s [5/12] Epoch with cuda device
+9s [6/12] Epoch with cuda device
+11s [7/12] Epoch with cuda device
+13s [8/12] Epoch with cuda device
+15s [9/12] Epoch with cuda device
+17s [10/12] Epoch with cuda device
+19s [11/12] Epoch with cuda device
+21s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 94/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+5s [4/12] Epoch with cuda device
+7s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+10s [7/12] Epoch with cuda device
+12s [8/12] Epoch with cuda device
+13s [9/12] Epoch with cuda device
+15s [10/12] Epoch with cuda device
+17s [11/12] Epoch with cuda device
+19s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 95/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+5s [4/12] Epoch with cuda device
+7s [5/12] Epoch with cuda device
+9s [6/12] Epoch with cuda device
+11s [7/12] Epoch with cuda device
+13s [8/12] Epoch with cuda device
+15s [9/12] Epoch with cuda device
+17s [10/12] Epoch with cuda device
+18s [11/12] Epoch with cuda device
+20s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 96/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+4s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+9s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+13s [9/12] Epoch with cuda device
+15s [10/12] Epoch with cuda device
+16s [11/12] Epoch with cuda device
+18s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 97/108
+0s [1/12] Epoch with cuda device
+2s [2/12] Epoch with cuda device
+4s [3/12] Epoch with cuda device
+6s [4/12] Epoch with cuda device
+8s [5/12] Epoch with cuda device
+9s [6/12] Epoch with cuda device
+11s [7/12] Epoch with cuda device
+13s [8/12] Epoch with cuda device
+16s [9/12] Epoch with cuda device
+17s [10/12] Epoch with cuda device
+19s [11/12] Epoch with cuda device
+21s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 98/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+5s [4/12] Epoch with cuda device
+7s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+10s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+13s [9/12] Epoch with cuda device
+15s [10/12] Epoch with cuda device
+17s [11/12] Epoch with cuda device
+19s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 99/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+5s [4/12] Epoch with cuda device
+8s [5/12] Epoch with cuda device
+9s [6/12] Epoch with cuda device
+11s [7/12] Epoch with cuda device
+13s [8/12] Epoch with cuda device
+15s [9/12] Epoch with cuda device
+17s [10/12] Epoch with cuda device
+19s [11/12] Epoch with cuda device
+21s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 100/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+4s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+8s [6/12] Epoch with cuda device
+10s [7/12] Epoch with cuda device
+12s [8/12] Epoch with cuda device
+13s [9/12] Epoch with cuda device
+15s [10/12] Epoch with cuda device
+17s [11/12] Epoch with cuda device
+18s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 101/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+5s [4/12] Epoch with cuda device
+7s [5/12] Epoch with cuda device
+9s [6/12] Epoch with cuda device
+11s [7/12] Epoch with cuda device
+13s [8/12] Epoch with cuda device
+15s [9/12] Epoch with cuda device
+17s [10/12] Epoch with cuda device
+19s [11/12] Epoch with cuda device
+21s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 102/108
+0s [1/12] Epoch with cuda device
+1s [2/12] Epoch with cuda device
+3s [3/12] Epoch with cuda device
+4s [4/12] Epoch with cuda device
+6s [5/12] Epoch with cuda device
+7s [6/12] Epoch with cuda device
+9s [7/12] Epoch with cuda device
+11s [8/12] Epoch with cuda device
+13s [9/12] Epoch with cuda device
+14s [10/12] Epoch with cuda device
+16s [11/12] Epoch with cuda device
+18s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 103/108
+0s [1/12] Epoch with cuda device
+58s [2/12] Epoch with cuda device
+117s [3/12] Epoch with cuda device
+176s [4/12] Epoch with cuda device
+234s [5/12] Epoch with cuda device
+293s [6/12] Epoch with cuda device
+352s [7/12] Epoch with cuda device
+410s [8/12] Epoch with cuda device
+469s [9/12] Epoch with cuda device
+528s [10/12] Epoch with cuda device
+587s [11/12] Epoch with cuda device
+646s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 104/108
+0s [1/12] Epoch with cuda device
+30s [2/12] Epoch with cuda device
+60s [3/12] Epoch with cuda device
+91s [4/12] Epoch with cuda device
+122s [5/12] Epoch with cuda device
+152s [6/12] Epoch with cuda device
+183s [7/12] Epoch with cuda device
+214s [8/12] Epoch with cuda device
+245s [9/12] Epoch with cuda device
+277s [10/12] Epoch with cuda device
+308s [11/12] Epoch with cuda device
+339s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 105/108
+0s [1/12] Epoch with cuda device
+59s [2/12] Epoch with cuda device
+119s [3/12] Epoch with cuda device
+179s [4/12] Epoch with cuda device
+240s [5/12] Epoch with cuda device
+300s [6/12] Epoch with cuda device
+361s [7/12] Epoch with cuda device
+421s [8/12] Epoch with cuda device
+481s [9/12] Epoch with cuda device
+542s [10/12] Epoch with cuda device
+602s [11/12] Epoch with cuda device
+663s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 106/108
+0s [1/12] Epoch with cuda device
+31s [2/12] Epoch with cuda device
+62s [3/12] Epoch with cuda device
+93s [4/12] Epoch with cuda device
+124s [5/12] Epoch with cuda device
+155s [6/12] Epoch with cuda device
+187s [7/12] Epoch with cuda device
+218s [8/12] Epoch with cuda device
+250s [9/12] Epoch with cuda device
+281s [10/12] Epoch with cuda device
+313s [11/12] Epoch with cuda device
+344s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 107/108
+0s [1/12] Epoch with cuda device
+63s [2/12] Epoch with cuda device
+126s [3/12] Epoch with cuda device
+190s [4/12] Epoch with cuda device
+254s [5/12] Epoch with cuda device
+318s [6/12] Epoch with cuda device
+383s [7/12] Epoch with cuda device
+448s [8/12] Epoch with cuda device
+513s [9/12] Epoch with cuda device
+578s [10/12] Epoch with cuda device
+643s [11/12] Epoch with cuda device
+708s [12/12] Epoch with cuda device
+Training complete!
+Running experiment 108/108
+0s [1/12] Epoch with cuda device
+32s [2/12] Epoch with cuda device
+65s [3/12] Epoch with cuda device
+98s [4/12] Epoch with cuda device
+131s [5/12] Epoch with cuda device
+164s [6/12] Epoch with cuda device
+197s [7/12] Epoch with cuda device
+230s [8/12] Epoch with cuda device
+263s [9/12] Epoch with cuda device
+296s [10/12] Epoch with cuda device
+329s [11/12] Epoch with cuda device
+362s [12/12] Epoch with cuda device
+Training complete!
