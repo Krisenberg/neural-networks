@@ -1,0 +1,6 @@
+https://pytorch.org/docs/stable/generated/torch.nn.RNN.html
+https://pytorch.org/docs/stable/generated/torch.nn.LSTM.html
+https://pytorch.org/docs/stable/generated/torch.nn.Embedding.html
+https://pytorch.org/docs/stable/generated/torch.nn.BCEWithLogitsLoss.html
+https://keras.io/api/datasets/imdb/
+https://proceedings.neurips.cc/paper_files/paper/2016/file/076a0c97d09cf1a0ec3e19c7f2529f2b-Paper.pdf
