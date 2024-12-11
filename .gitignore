@@ -1,9 +1,9 @@
 # Custom .gitignore rules
-assets/
+src/lab_1/dataset_report.html
 outputs/
-*html
 *gz
 *ubyte
+instructions/
 
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
